@@ -1,0 +1,7 @@
+v 4
+file . "dec_to_7seg.vhd" "ecd32690877fb56eb5cc0ffbce3c55b652b630a4" "20260821024855.615":
+  entity dec_to_7seg at 1( 0) + 0 on 15;
+  architecture behavioral of dec_to_7seg at 20( 417) + 0 on 16;
+file . "tb_dec_to_7seg.vhd" "02424b54d64b226fe833f511d28998626f415406" "20260821024855.616":
+  entity tb_dec_to_7seg at 1( 0) + 0 on 17;
+  architecture behavior of tb_dec_to_7seg at 7( 96) + 0 on 18;
